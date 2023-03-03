@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @hafez1082
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development

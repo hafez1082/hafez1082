@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Ahmed Hafez
-- 👀 I’m interested in programming
+- 👀 I’m a Biomedical Engineer in CUFE

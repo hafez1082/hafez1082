@@ -8,7 +8,6 @@
 
 ###
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/101065677?s=400&u=966375df357f6fa970aaee30390c5b7dbf129a59&v=4"  />
 
 ###
 
